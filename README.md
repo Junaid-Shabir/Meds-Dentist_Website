@@ -1,2 +1,2 @@
 # Meds-Dentist_Website Here is the  Webiste Link 
-https://junaidansari1100.github.io/Meds-Dentist_Website/
+https://junaid-shabir.github.io/Meds-Dentist_Website/
